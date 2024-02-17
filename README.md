@@ -1,20 +1,20 @@
-# Projeto Unity: StoryTelling (College Project)
+# Unity Project: StoryTelling (College Project)
 
-Bem-vindo ao meu repositório Unity, onde compartilho meu projeto desenvolvido como parte do curso da faculdade de jogos digitais.
+Welcome to my Unity repository, where I share my project developed as part of my digital games college course.
 
-## Descrição do Projeto
+## Project description
 
 ### StoryTelling
-O jogador recebe opções aleatorias de regras que deve seguir para escrever sua historia, deixando o jogador escolher qual delas vai seguir, no video de amostra você escolhe primeiro o titulo da obra, e recebe 3 opções de como a historia deve começar, o jogador escolhe a que preferir, em seguida recebe 3 opções de para onde a historia deve seguir, e novamente o jogador escolhe para onde vai seguir, são 20 regras que no final com a criatividade e aleatoriedade o jogador pode treinar sua construção de historias.
+The player receives random options of rules that he must follow to write his story, letting the player choose which one to follow, in the sample video you first choose the title of the work, and receive 3 options of how the story should begin, the player chooses whichever one you prefer, you then receive 3 options of where the story should go, and again the player chooses where it will go, there are 20 rules that in the end, with creativity and randomness, the player can train his story construction.
 
-# No final ele pode publicar seu texto e outros jogadores podem ler e verêm quais regras cairam para o autor do texto, e se ele seguiu as regras.
+# At the end he can publish his text and other players can read it and see which rules fell to the author of the text, and whether he followed the rules.
 
 https://github.com/Akapaya/StoryTelling/assets/63330951/f1018748-b856-4401-b960-0bbb8809dabc
 
-## Desafios e Conquistas Unity
-Este projeto um dos meus ultimos projetos na faculdade, focando na usabilidade e conexão com o banco de dados para os usuarios (Utlizando Firebase).
+## Unity Challenges and Achievements
+This project is one of my last projects in college, focusing on usability and connection to the database for users (Using Firebase).
 
-## Tecnologias e Habilidades Demonstradas
+## Demonstrated Technologies and Skills
 
 - Unity3D
 - C#
@@ -22,11 +22,11 @@ Este projeto um dos meus ultimos projetos na faculdade, focando na usabilidade e
 - Firebase
 - Apis
 
-## Contato
+## Contact
 
 Sinta-se à vontade para entrar em contato comigo para discutir mais sobre este projeto ou colaborações futuras.
 
 - Email: gregory_valentim@hotmail.com
 - LinkedIn: [Gregory Valentim](https://www.linkedin.com/in/gregory-valentim/)
 
-Obrigado por explorar este projeto Unity.
+Thanks for exploring this Unity project.
